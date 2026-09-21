@@ -1,4 +1,4 @@
-# FitUp Mobile App (Comp 2800 - BBY29)
+# FitUp App (Comp 2800 - BBY29)
 
 **Live Demo:** [https://fitupapp.onrender.com](https://fitupapp.onrender.com)
 **Testing Plan:** [Google Sheets Link](https://docs.google.com/spreadsheets/d/10ylqpRkL9dYpFuuqNc5xzxkXSeOpcru4Y1LLDA1xn7o/edit#gid=394496370)
